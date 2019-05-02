@@ -7,8 +7,8 @@ sidebarDepth: 2
 # 使用 VuePress 架設個人部落格
 
 ::: tip 提示
-有閱讀障礙的同學，可以跳過第一至四節，下載我寫好的[工具包](https://github.com/zhangyunchencc/vuepress-devkit.git): 
-`git clone https://github.com/zhangyunchencc/vuepress-devkit.git` 然後從第五節開始看。
+有閱讀障礙的同學，可以跳過第一至四節，下載我寫好的[工具包](https://github.com/tclung/vuepressBlog.git): 
+`git clone https://github.com/tclung/vuepressBlog.git` 然後從第五節開始看。
 :::
 
 ## 一、為什麼你需要一個部落格？
